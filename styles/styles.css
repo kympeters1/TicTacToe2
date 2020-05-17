@@ -116,7 +116,7 @@
     .board.circle .cell:not(.x):not(.circle):hover::after {
         content: '';
         position: absolute;
-        border-radius: 50%;
+/*         border-radius: 50%; */
     }
     
     .cell.circle::before,
